@@ -1,2 +1,7 @@
 # 01-Interactive-Fiction
-The first project of Game Development, a Simple text based adventure game
+Context 9/10/21
+A little text based adventure that will surely be very good.
+## Implementation
+## References
+## Future Development 
+## Created by Tyler Fields
