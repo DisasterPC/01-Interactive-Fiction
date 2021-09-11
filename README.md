@@ -2,6 +2,7 @@
 Context 9/10/21
 A little text based adventure that will surely be very good.
 ## Implementation
-## References
-## Future Development 
+Written in Python 3.9
+## Future Development
+Hopefully none this was a nightmare to work on
 ## Created by Tyler Fields
